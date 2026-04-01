@@ -1,7 +1,3 @@
-# mc0908a.github.io
-
-El trompo
-
 
 <!DOCTYPE html>
 
